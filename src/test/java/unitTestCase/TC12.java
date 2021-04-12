@@ -20,5 +20,17 @@ public class TC12 {
 		System.out.println("Update done 12XX");
 	}
 	
+	@Test
+	public void Testmethod3()
+	{
+		System.out.println("Update done 12XXX");
+	}
+	
+	@Test
+	public void Testmethod4()
+	{
+		System.out.println("Update done 12XXXX");
+	}
+	
 
 }
